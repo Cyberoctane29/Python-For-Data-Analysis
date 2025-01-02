@@ -1,5 +1,8 @@
-Course-3/Data/eda_using_basic_data_functions_in_python_dataset1.csv
-Course-3/Data/eda_using_basic_data_functions_in_python_dataset2.csv
-Course-3/Data/eda_manipulate_date_strings_with_python.csv
-Course-3/Data/eda_structuring_with_python_dataset1.csv
-Course-3/Data/eda_structuring_with_python_dataset2.csv
+#______________Common____________________
+Course-3/Data/Common/
+
+#_______________Module_2__________________
+Course-3/Data/Module_2/
+
+#_______________Module_3___________________
+Course-3/Data/Module_3/
