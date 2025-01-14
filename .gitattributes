@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
 
-*.txt linguist-vendored=true
-*.csv linguist-vendored=true
-*.ipynb linguist-language=Jupyter Notebook
+* text=auto
+
