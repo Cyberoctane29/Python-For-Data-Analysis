@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 
+iframe_figures/*.html linguist-vendored=true
 *.ipynb linguist-language=Jupyter Notebook
