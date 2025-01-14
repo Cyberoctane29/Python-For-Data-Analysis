@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
+
 *.py linguist-language=Python
 *.ipynb linguist-language=Jupyter Notebook
+
