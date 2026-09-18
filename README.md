@@ -1,5 +1,4 @@
-# 
-Python-For-Data-Analysis  - Google Advanced Data Analytics — Python Coursework
+# Python-For-Data-Analysis  - Google Advanced Data Analytics — Python Coursework
 
 This repository contains my **Python coursework, practice notebooks, and end-of-course projects** completed as part of the **Google Advanced Data Analytics Professional Certificate**.
 
